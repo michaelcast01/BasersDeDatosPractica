@@ -5,5 +5,10 @@ public class Main {
         system.out.printl("hola case");
         system.out.printl("estamos aprendiendo comandos");
         system.out.printl("repasando comandos");
+        system.out.printl("DDL");
+    system.out.printl("DML");
+system.out.printl("TCL");
+    system.out.printl("CAMBIOS");
+
     }
 }
